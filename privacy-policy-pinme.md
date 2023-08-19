@@ -16,7 +16,7 @@ Usage Information: We collect information about how you interact with our App, s
 
 Third-Party Services
 
-Our App uses third-party libraries provided by Google Play Services (google.android.gms) and Firebase to enhance functionality, analytics, and performance.
+Our App uses third-party libraries provided by Google Play Services (google.android.gms), OneSignal, and Firebase to enhance functionality, analytics, and performance.
 We would like to acknowledge the use of some icons provided by ICONS8 in our App. These icons contribute to the visual elements of our App's design. ICONS8 offers a wide range of icons for various purposes.
 
 - Website: [https://icons8.com](https://icons8.com)
